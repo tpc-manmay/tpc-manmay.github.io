@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
 
   app: {
-    baseURL: './'
+    baseURL: '/tpc-manmay.github.io/'
   },
 
   modules: [
@@ -21,7 +21,7 @@ export default defineNuxtConfig({
   i18n: {
     defaultLocale: 'en',
     langDir: 'lang',
-    baseUrl: './',
+    baseUrl: '/tpc-manmay.github.io/',
     locales: [{
       code: 'en',
       iso: 'en-US',
